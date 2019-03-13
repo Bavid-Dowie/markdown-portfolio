@@ -8,6 +8,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+  #bookName {
+  font-family: Georgia, 'Times New Roman', Times, serif,  
+  
+  }
+
+/*   #bookAuthor {
+
+  }
+
+  #bookInfo {
+
+  } */
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
